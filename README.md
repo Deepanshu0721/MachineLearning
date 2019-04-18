@@ -23,5 +23,5 @@ This repository is about different Machine Learning algorithm approaches as per 
 ___
 <a id=section1></a>
 ### [House Price Prediction](./House Price Prediction)
-![image.jpg](image/)<br><br>
+![image.jpg](image/house.jpg)<br><br>
 hf
