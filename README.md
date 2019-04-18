@@ -9,4 +9,4 @@ __"Machine learning is a method of data analysis that automates analytical model
 __Why Machine Learning?__<br>
 To better understand the uses of machine learning, consider some of the instances where machine learning is applied: house price prediction, student's marks analysis, Heart and Cancer prediction , Customer Segmentation are some examples of applied machine learning.<br>
 All these examples echo the vital role machine learning has begun to take in today’s data-rich world. Machines can aid in filtering useful pieces of information that help in major advancements, and we are already seeing how this technology is being implemented in a wide variety of industries.
-![image.png](image/machine-learning-process)<br><br>
+![image.png](image/machine-learning-process.jpeg)<br><br>
