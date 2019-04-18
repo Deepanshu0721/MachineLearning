@@ -1,5 +1,5 @@
 # Machine Learning Using Python
-
+![image.png](image/machineLearning3.png)<br><br>
 Machine learning is a core sub-area of __artificial intelligence__; it enables computers to get into a mode of self-learning without 
 being explicitly programmed. When exposed to new data, these computer programs are enabled to learn, grow, change, and develop
 by themselves.<br>
