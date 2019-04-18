@@ -28,3 +28,8 @@ Price of House as a function of Area ,Airconditioning, Bedrooms, Bathrooms, Stor
   * We want to find a function that given input Price of House for Area, Bedroom, Bathroom and Airconditioning.
   * Visualize the relationship between the features and the response using scatter plots and line plot.
   * [Link for the Jupyter notebook](./House Price Prediction/House Price analysis.ipynb)
+
+___
+
+### [Fraud Detection](./Fraud Detection)
+![image.jpg](image/headerimjhhage.png)<br><br>
