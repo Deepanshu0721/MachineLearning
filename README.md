@@ -15,10 +15,11 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Table of Contents
 - [House Price Prediction](#section1)<br>
-- [Credit Fraud Detection](#section2)<br>
+- [Market Basket Analysis](#section2)<br>
 - [Student's Marks Analysis](#section3)<br>
-- [Prediction of Lifetime Risk for Heart Disease and Cancer ](#section4)<br>
-- [Customer Segmentation](#section5)<br>
+- [Prediction of Lifetime Risk for Heart Disease and Cancer](#section4)<br>
+
+
 
 ___
 <a id=section1></a>
@@ -31,5 +32,27 @@ Price of House as a function of Area ,Airconditioning, Bedrooms, Bathrooms, Stor
 
 ___
 
-### [Fraud Detection](./Fraud Detection)
-![image.jpg](image/headerimjhhage.png)<br><br>
+### [Market Basket Analysis](./Market Basket Analysis)
+![image.jpg](image/download.jpg)<br><br>
+You are owing a supermarket mall and through membership cards , you have some basic data about your customers like 
+Customer ID, age, gender, annual income and spending score.
+ * Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.
+ * [Link for the Jupyter notebook](./Market Basket Analysis/Analysis.ipynb)
+ 
+___ 
+
+### [Student's Marks Analysis](./Student's Marks Analysis)
+![image.jpg](image/rs50460_160509_0588_cropped.jpg)<br><br>
+To understand the influence of various factors like economic, personal and social on the students performance.
+Inferences would be :
+* How to imporve the students performance in each test ?
+* What are the major factors influencing the test scores ?
+* Effectiveness of test preparation course?
+* [Link for the Jupyter notebook](./students-performance-in-exams/Marks predictions.ipynb)
+
+___
+
+### [Prediction of Lifetime Risk for Heart Disease and Cancer](./Prediction of Lifetime Risk for Heart Disease and Cancer)
+![image.jpg](image/Research6_sm.jpg)<br><br>
+Of all the applications of machine-learning, diagnosing any serious disease using a black box is always going to be a hard sell. If the output from a model is the particular course of treatment (potentially with side-effects), or surgery, or the absence of treatment, people are going to want to know why.
+[Link for the Jupyter notebook](./Prediction of Lifetime Risk for Heart Disease and Cancer)
