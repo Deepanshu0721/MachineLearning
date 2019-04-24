@@ -18,7 +18,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 - [Market Basket Analysis](#section2)<br>
 - [Student's Marks Analysis](#section3)<br>
 - [Prediction of Lifetime Risk for Heart Disease and Cancer](#section4)<br>
-
+- [Wine Classification](#section5)<br>
 
 
 ___
@@ -55,4 +55,11 @@ ___
 ### [Prediction of Lifetime Risk for Heart Disease and Cancer](./Prediction of Lifetime Risk for Heart Disease and Cancer)
 ![image.jpg](image/Research6_sm.jpg)<br><br>
 Of all the applications of machine-learning, diagnosing any serious disease using a black box is always going to be a hard sell. If the output from a model is the particular course of treatment (potentially with side-effects), or surgery, or the absence of treatment, people are going to want to know why.
-[Link for the Jupyter notebook](./Prediction of Lifetime Risk for Heart Disease and Cancer)
+ * [Link for the Jupyter notebook](./Prediction of Lifetime Risk for Heart Disease and Cancer)
+
+___
+
+### [Wine Classification](./Wine Classification)
+![image.jpg](image/download(1).jpg)<br><br>
+Wine classification on the basis of different factors like, Alcohol, Malic Acid, Ash, Ash Alcanity etc. Using Pricipal Component Analysis (PCA) for dimension reduction and then classifying wine into different classes using Nearest Neighbour (KNN) method.
+ * [Link for the Jupyter notebook](./Wine Classification/) 
