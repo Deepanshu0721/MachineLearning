@@ -32,7 +32,7 @@ Price of House as a function of Area ,Airconditioning, Bedrooms, Bathrooms, Stor
 
 ___
 <a id=section2></a>
-### [Market Basket Analysis](./Market Basket Analysisjhn)
+### [Market Basket Analysis](./Market Basket Analysis)
 ![image.jpg](image/download.jpg)<br><br>
 You are owing a supermarket mall and through membership cards , you have some basic data about your customers like 
 Customer ID, age, gender, annual income and spending score.
