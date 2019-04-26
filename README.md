@@ -32,7 +32,7 @@ Price of House as a function of Area ,Airconditioning, Bedrooms, Bathrooms, Stor
 
 ___
 <a id=section2></a>
-### [Market Basket Analysis](./Market Basket Analysis)
+### [Market Basket Analysis](./Market Basket Analysisjhn)
 ![image.jpg](image/download.jpg)<br><br>
 You are owing a supermarket mall and through membership cards , you have some basic data about your customers like 
 Customer ID, age, gender, annual income and spending score.
@@ -60,7 +60,7 @@ Of all the applications of machine-learning, diagnosing any serious disease usin
 ___
 <a id=section5></a>
 ### [Wine Classification](Wine Classification)
-![image.jpg](image/download (1).jpg)<br><br>
+![image.jpg](image/hfhhjvhj.jpg)<br><br>
 Wine classification on the basis of different factors like, Alcohol, Malic Acid, Ash, Ash Alcanity etc. Using Pricipal Component Analysis (PCA) for dimension reduction and then classifying wine into different classes using Nearest Neighbour (KNN) method.
- * [Link for the Jupyter notebook](Wine Classification/Wine-Classification.ipynb) 
+ * [Link for the Jupyter notebook](./Wine Classification/Wine-Classification.ipynb) 
 ___
