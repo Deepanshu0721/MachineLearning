@@ -28,7 +28,7 @@ ___
 Price of House as a function of Area ,Airconditioning, Bedrooms, Bathrooms, Stories, Mainroad, Guestroom, Basement, Hotwaterheating, Airconditioning, Parking, Prefarea and Furnishingstatus. Suppose that in our role as Data Scientist we are asked to suggest.
   * We want to find a function that given input Price of House for Area, Bedroom, Bathroom and Airconditioning.
   * Visualize the relationship between the features and the response using scatter plots and line plot.
-  * [Link for the Jupyter notebook](./HousePricePrediction/HousePriceanalysis.ipynb)
+  * [Link for the Jupyter notebook](/HousePricePrediction/HousePriceanalysis.ipynb)
 
 ___
 <a id=section2></a>
