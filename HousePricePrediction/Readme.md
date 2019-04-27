@@ -4,6 +4,8 @@
 ___
 __Linear Regression__
 Simple linear regression is useful for finding relationship between two continuous variables. One is predictor or independent variable and other is response or dependent variable. It looks for statistical relationship but not deterministic relationship. Relationship between two variables is said to be deterministic if one variable can be accurately expressed by the other. For example, using temperature in degree Celsius it is possible to accurately predict Fahrenheit. Statistical relationship is not accurate in determining relationship between two variables.
+
+
 Y(pred) = b0 + b1*x
 ![image.jpg](images/1_xxxqZtZExBJoxmYKIY-waw.png)<br><br>
 
