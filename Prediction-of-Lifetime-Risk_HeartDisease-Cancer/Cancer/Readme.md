@@ -16,6 +16,8 @@ __DATA__
 
 There are many ways of dealing with imbalanced data. We will focus here on "UnderSampling" process.
 For the model analysis we have used SVM to train and test the model.
+__Classification Report__
+
 
 ![image.jpg](images/Capture2.PNG)<br><br>
 
