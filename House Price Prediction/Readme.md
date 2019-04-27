@@ -1,4 +1,7 @@
 # House Price Prediction
+![image.jpg](images/credit-taux-zero-duree-montant.jpg)<br><br>
+
+___
 
 __Price of House__  as a __function__ of __Area ,Airconditioning, Bedrooms, Bathrooms, Stories, Mainroad, Guestroom, Basement, Hotwaterheating, Airconditioning, Parking, Prefarea and Furnishingstatus__. Suppose that in our role as __Data Scientist__ we are asked to suggest.
 
@@ -34,6 +37,8 @@ Selecting major features form the heatmap like, __'area','bedrooms', "stories",'
 _Plot between area and price_
 ![image.jpg](images/Capture1.PNG)<br><br>
 
+___
+
 After fitting simple multiple regression line, coefficients are as follows:
 
 __area = 0.41 (X1)__
@@ -46,4 +51,7 @@ __airconditioning = 0.46 (X4)__
 
 __intercept = -1.35 (c)__
 ___
+
 Final regression line is as follows: __Price = 0.41X1 + 0.22X2 + 0.30X3 + 0.46X4 - 1.35.__
+
+___
