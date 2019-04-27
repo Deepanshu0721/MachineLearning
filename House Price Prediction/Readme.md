@@ -28,12 +28,14 @@ What is the **response**?
 ___
 
 Heat-Map showing correlation between all the provided features:-
-
 ![image.jpg](images/Capture.PNG)<br><br>
 
 Selecting major features form the heatmap like, __'area','bedrooms', "stories",'airconditioning'.__ 
+_Plot between area and price_
+![image.jpg](images/Capture1.PNG)<br><br>
 
 After fitting simple multiple regression line, coefficients are as follows:
+
 __area = 0.41 (X1)__
 
 __bedrooms = 0.22 (X2)__
@@ -44,4 +46,4 @@ __airconditioning = 0.46 (X4)__
 
 __intercept = -1.35 (c)__
 ___
-Final regression line is as follows: Price = 0.41X1 + 0.22X2 + 0.30X3 + 0.46X4 - 1.35.
+Final regression line is as follows: __Price = 0.41X1 + 0.22X2 + 0.30X3 + 0.46X4 - 1.35.__
