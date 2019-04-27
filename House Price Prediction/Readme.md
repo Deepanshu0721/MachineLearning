@@ -44,4 +44,4 @@ __airconditioning = 0.46 (X4)__
 
 __intercept = -1.35 (c)__
 ___
-Final regression line is as follows: Price = 0.41__X1__ + 0.22__X2__ + 0.30__X3__ + 0.46__X4__ - 1.35.
+Final regression line is as follows: Price = 0.41X1 + 0.22X2 + 0.30X3 + 0.46X4 - 1.35.
