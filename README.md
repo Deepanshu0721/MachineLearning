@@ -8,7 +8,7 @@ __"Machine learning is a method of data analysis that automates analytical model
 
 __Why Machine Learning?__<br>
 To better understand the uses of machine learning, consider some of the instances where machine learning is applied: house price prediction, student's marks analysis, Heart and Cancer prediction , Customer Segmentation are some examples of applied machine learning and we are already seeing how this technology is being implemented in a wide variety of industries.<br>
-![image.png](image/1-s2.0-S2095927316301736-gr1.jpg)<br><br>
+![image.png](image/robo.jpg.jpg)<br><br>
 
 ## Repository Overview
 This repository is about different Machine Learning algorithm approaches as per the industry practices.
