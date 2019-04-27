@@ -25,5 +25,23 @@ What are the **features**?
 What is the **response**?
 
 - Price:              Price of the given House
+___
+
+Heat-Map showing correlation between all the provided features:-
 
 ![image.jpg](images/Capture.PNG)<br><br>
+
+Selecting major features form the heatmap like, __'area','bedrooms', "stories",'airconditioning'.__ 
+
+After fitting simple multiple regression line, coefficients are as follows:
+__area = 0.41 (X1)__
+
+__bedrooms = 0.22 (X2)__
+
+__stories = 0.30 (X3)__
+
+__airconditioning = 0.46 (X4)__
+
+__intercept = -1.35 (c)__
+___
+Final regression line is as follows: Price = 0.41_*_X1 _+_ 0.22_*_X2 _+_ 0.30_*_X3 _+_ 0.46_*_X4 _-_ 1.35.
