@@ -25,11 +25,11 @@ __Basic EDA__
 ![image.jpg](images/Capture9.PNG)<br><br>
 ![image.jpg](images/Capture10.PNG)<br><br>
 ![image.jpg](images/Capture11.PNG)<br><br>
-
 __Heart Disease prediction__
 ![image.jpg](images/Capture12.PNG)<br><br>
 ![image.jpg](images/Capture13.PNG)<br><br>
 In this case we are gonna try to minimize the number of errors in our prediction results. Errors are on the anti-diagonal of the confusion matrix. But we can infer that being wrong about an actual patient is far worse than being wrong about a healthy patient.
 
 __Accuracy = 79.10%.__
+
 __Misclassification Cost of the above model is 969.__
