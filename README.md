@@ -23,7 +23,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ___
 <a id=section1></a>
-### [House Price Prediction](./House Price Prediction)
+### [House Price Prediction](./HousePricePrediction)
 ![image.jpg](image/headerimage.png)<br><br>
 Price of House as a function of Area ,Airconditioning, Bedrooms, Bathrooms, Stories, Mainroad, Guestroom, Basement, Hotwaterheating, Airconditioning, Parking, Prefarea and Furnishingstatus. Suppose that in our role as Data Scientist we are asked to suggest.
   * We want to find a function that given input Price of House for Area, Bedroom, Bathroom and Airconditioning.
