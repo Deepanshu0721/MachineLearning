@@ -61,7 +61,7 @@ Of all the applications of machine-learning, diagnosing any serious disease usin
 ___
 <a id=section5></a>
 ### [Wine Classification](Wine-Classification)
-![image.jpg](image/YQN2PSQVCII6TEFICNX2IS4AXI.jpg)<br><br>
+![image.jpg](image/Vinesse-Wine-Club.jpg)<br><br>
 Wine classification on the basis of different factors like, Alcohol, Malic Acid, Ash, Ash Alcanity etc. Using Pricipal Component Analysis (PCA) for dimension reduction and then classifying wine into different classes using Nearest Neighbour (KNN) method.
  * [Link for the Jupyter notebook](./Wine-Classification/Wine-Classification.ipynb) 
 ___
