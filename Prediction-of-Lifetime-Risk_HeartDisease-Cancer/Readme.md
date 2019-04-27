@@ -4,7 +4,7 @@
 * __Diagnosis/disease identification:__
 Medical care begins with an accurate diagnosis. Machine learning is already at the forefront, assisting leading research organizations in devising better methods of disease identification. Back in 2016, IBM Watson Genomics, a partnership between IBM Watson Health and Quest Diagnostics, began with a view to integrate cognitive computing and genomic tumor sequencing, to make rapid leaps in precision medicine.
 
-![image.jpg](images/safsfsfsf.jpg)<br><br>
+![image.jpg](images/topic-Dentistry-629x299.jpg)<br><br>
 * __Image analysis for remote diagnosis:__
 Extended beyond diagnosis is image analysis, another promising application of ML in the field of medicine and health care. Traditional image analysis (X-rays, MRI scans, CAT scans) is time-consuming. 
 
