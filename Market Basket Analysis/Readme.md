@@ -15,6 +15,7 @@ ___
 
 __Basic Exploratory Data Analysis__
 ![image.jpg](images/gen.PNG)<br><br>
+![image.jpg](images/sccc.PNG)<br><br>
 ![image.jpg](images/hist.PNG)<br><br>
 ![image.jpg](images/scsa.PNG)<br><br>
 ![image.jpg](images/sc-spen-inco.PNG)<br><br>
