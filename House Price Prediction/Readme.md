@@ -34,6 +34,7 @@ Heat-Map showing correlation between all the provided features:-
 ![image.jpg](images/Capture.PNG)<br><br>
 
 Selecting major features form the heatmap like, __'area','bedrooms', "stories",'airconditioning'.__ 
+
 _Plot between area and price_
 ![image.jpg](images/Capture1.PNG)<br><br>
 
