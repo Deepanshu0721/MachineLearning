@@ -26,4 +26,4 @@ What is the **response**?
 
 - Price:              Price of the given House
 
-![images.jpg](image/Capture.PNG)<br><br>
+![image.jpg](images/Capture.PNG)<br><br>
