@@ -16,3 +16,12 @@ __Basic EDA__
 ![image.jpg](images/Capture.PNG)<br><br>
 ![image.jpg](images/Capture1.PNG)<br><br>
 ![image.jpg](images/Capture2.PNG)<br><br>
+![image.jpg](images/Capture3.PNG)<br><br>
+![image.jpg](images/Capture4.PNG)<br><br>
+![image.jpg](images/Capture5.PNG)<br><br>
+![image.jpg](images/Capture6.PNG)<br><br>
+![image.jpg](images/Capture7.PNG)<br><br>
+![image.jpg](images/Capture8.PNG)<br><br>
+![image.jpg](images/Capture9.PNG)<br><br>
+![image.jpg](images/Capture10.PNG)<br><br>
+![image.jpg](images/Capture11.PNG)<br><br>
