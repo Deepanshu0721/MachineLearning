@@ -2,7 +2,12 @@
 ![image.jpg](images/credit-taux-zero-duree-montant.jpg)<br><br>
 
 ___
+__Linear Regression__
+Simple linear regression is useful for finding relationship between two continuous variables. One is predictor or independent variable and other is response or dependent variable. It looks for statistical relationship but not deterministic relationship. Relationship between two variables is said to be deterministic if one variable can be accurately expressed by the other. For example, using temperature in degree Celsius it is possible to accurately predict Fahrenheit. Statistical relationship is not accurate in determining relationship between two variables.
+Y(pred) = b0 + b1*x
+![image.jpg](images/1_xxxqZtZExBJoxmYKIY-waw.png)<br><br>
 
+___
 __Price of House__  as a __function__ of __Area ,Airconditioning, Bedrooms, Bathrooms, Stories, Mainroad, Guestroom, Basement, Hotwaterheating, Airconditioning, Parking, Prefarea and Furnishingstatus__. Suppose that in our role as __Data Scientist__ we are asked to suggest.
 
 - We want to find a function that given input Price of House for Area, Bedroom, Bathroom and Airconditioning.
@@ -36,6 +41,7 @@ Heat-Map showing correlation between all the provided features:-
 Selecting major features form the heatmap like, __'area','bedrooms', "stories",'airconditioning'.__ 
 
 _Plot between area and price_
+
 ![image.jpg](images/Capture1.PNG)<br><br>
 
 ___
