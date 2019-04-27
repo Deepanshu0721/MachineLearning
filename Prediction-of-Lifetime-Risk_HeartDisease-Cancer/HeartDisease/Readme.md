@@ -25,7 +25,7 @@ __Basic EDA__
 ![image.jpg](images/Capture9.PNG)<br><br>
 ![image.jpg](images/Capture10.PNG)<br><br>
 ![image.jpg](images/Capture11.PNG)<br><br>
-__Heart Disease prediction__
+__Heart Disease prediction Report__
 
 
 ![image.jpg](images/Capture12.PNG)<br><br>
