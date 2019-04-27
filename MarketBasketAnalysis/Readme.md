@@ -32,7 +32,7 @@ __Each customer is scored based on three factors, namely Age, Average-Income and
 * __Average-Income:__ Average monthly income of the customers. 
 Customers who have higher income are more likely to purchase.
 
-* __Spending-Score:__The amount of money these customers have spent on purchases.
+* __Spending-Score:__ The amount of money these customers have spent on purchases.
 Customers who have spent higher are more likely to purchase based in the offer compared to those who have spent less.
 
 ___
