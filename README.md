@@ -33,7 +33,7 @@ Price of House as a function of Area ,Airconditioning, Bedrooms, Bathrooms, Stor
 ___
 <a id=section2></a>
 ### [Market Basket Analysis](./MarketBasketAnalysis)
-![image.jpg](image/C9YZEj3XkAEW3iA.jpg)<br><br>
+![image.jpg](image/retail-localization-campaign-compliance-trendagram.jpg)<br><br>
 You are owing a supermarket mall and through membership cards , you have some basic data about your customers like 
 Customer ID, age, gender, annual income and spending score.
  * Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.
