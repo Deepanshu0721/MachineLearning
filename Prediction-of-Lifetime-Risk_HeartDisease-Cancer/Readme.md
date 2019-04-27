@@ -12,6 +12,6 @@ Extended beyond diagnosis is image analysis, another promising application of ML
 * __AI-powered robots assisting surgical operations:__
 Imagine a robot conducting a complex eye operation. Imagine a mini-robot that enters a heart patient’s chest and assists in mapping and therapy. You don’t really need to imagine, because these are realities. Da Vinci — the most advanced robot for surgical operations, and Heartlander — which does exactly what its name suggests, are in action, performing and assisting in complex eye and heart surgeries, respectively.
 
-![image.jpg](images/cu-blog-virtual-simulation-fb.jpg)<br><br>
+![image.jpg](images/cardiac-rehab.jpg)<br><br>
 * __Virtual nursing:__
 Yes, there is such a thing as virtual nursing. Not only can machine language-powered nursing chatbots and robots interact with patients more regularly than human nurses, but also can serve as intelligent gatekeepers of information between patients and doctors.
