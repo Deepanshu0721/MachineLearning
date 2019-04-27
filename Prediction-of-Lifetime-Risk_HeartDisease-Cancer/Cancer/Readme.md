@@ -15,7 +15,6 @@ __DATA__
 * Dataset is imbalanced, with the positive(Non-Cancer) calss  accounting for 0.352% of all patients.
 
 There are many ways of dealing with imbalanced data. We will focus here on "UnderSampling" process.
-
 For the model analysis we have used SVM to train and test the model.
 ![image.jpg](images/Capture1.PNG)<br><br>
 
