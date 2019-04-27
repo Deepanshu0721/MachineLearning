@@ -1,6 +1,6 @@
 # MEDICAL APPLICATIONS POWERED BY MACHINE LEARNING
 
-![image.jpg](images/EIAT medical hub.jpg)<br><br>
+![image.jpg](images/safsfsfsf.jpg)<br><br>
 * __Diagnosis/disease identification: __
 Medical care begins with an accurate diagnosis. Machine learning is already at the forefront, assisting leading research organizations in devising better methods of disease identification. Back in 2016, IBM Watson Genomics, a partnership between IBM Watson Health and Quest Diagnostics, began with a view to integrate cognitive computing and genomic tumor sequencing, to make rapid leaps in precision medicine.
 
