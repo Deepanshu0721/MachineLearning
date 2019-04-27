@@ -13,10 +13,14 @@ When you have data -- like a list of customers and what they bought -- and you n
 
 ___
 
-__Each customer is scored based on three factors, namely Age, Average-Income and Spending-Score.__
+__Basic Exploratory Data Analysis__
+![image.jpg](images/gen.PNG)<br><br>
+![image.jpg](images/hist.PNG)<br><br>
 ![image.jpg](images/scsa.PNG)<br><br>
 ![image.jpg](images/sc-spen-inco.PNG)<br><br>
 
+___
+__Each customer is scored based on three factors, namely Age, Average-Income and Spending-Score.__
 
 * __Age:__ Customers are divided into different age groups as quality of purchase varries for different age groups.
 
