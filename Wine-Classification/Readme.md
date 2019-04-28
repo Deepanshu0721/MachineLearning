@@ -1,10 +1,10 @@
 # Wine Classification
 
+![image.jpg](images/download.jpg)<br><br>
+
 __Introduction__
 
-_Dimension Reduction using PCA:_
-
-__Principal component analysis (PCA)__ is a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables (entities each of which takes on various numerical values) into a set of values of linearly uncorrelated variables called principal components.
+_Dimension Reduction using PCA:_ __Principal component analysis (PCA)__ is a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables (entities each of which takes on various numerical values) into a set of values of linearly uncorrelated variables called principal components.
 
 ![image.jpg](images/fig_pca_principal_component_analysis.png)<br><br>
 
