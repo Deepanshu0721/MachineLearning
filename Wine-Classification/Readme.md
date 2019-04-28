@@ -13,6 +13,7 @@ __When should I use PCA?__
 * Do you want to ensure your variables are independent of one another?
 * Are you comfortable making your independent variables less interpretable?
 
+___
 
 __DATA:__ Our data have 14 features.
 
@@ -25,5 +26,7 @@ After splitting into X_train and Y_train, X_train can be represented by 10 featu
 ![image.jpg](images/Capture3.PNG)<br><br>
 ![image.jpg](images/Capture4.PNG)<br><br>
 
+___
 
+__Classifying Wine using Nearest Neighbour Classifier__
 
