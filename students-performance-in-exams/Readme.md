@@ -37,6 +37,8 @@ __Random Foerst:__
 
 Random Forest is a flexible, easy to use machine learning algorithm that produces, even without hyper-parameter tuning, a great result most of the time. It is also one of the most used algorithms, because it’s simplicity and the fact that it can be used for both classification and regression tasks. In this post, you are going to learn, how the random forest algorithm works and several other important things about it.
 
+![image.jpg](images/main-qimg-1d93e607cf6795e03cc32ca49e3413ea.png)<br><br>
+
 __To say it in simple words: Random forest builds multiple decision trees and merges them together to get a more accurate and stable prediction__.
 
 __Result of Random Forest classifier:__
