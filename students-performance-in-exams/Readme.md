@@ -2,8 +2,8 @@
 
 __Goal:__ To classify student's performance on the basis of completion of preparation course.
 
-__Introduction:__
 
+__Introduction:__
 A __Decision Tree__ is a decision support tool that uses a tree-like graph or model of decisions and their possible consequences, including chance event outcomes, resource cost, and utility. It is one way to display an algorithm that only contains conditional control statements.
 
 ![image.jpg](images/XOR3df51ae5.png)<br><br>
