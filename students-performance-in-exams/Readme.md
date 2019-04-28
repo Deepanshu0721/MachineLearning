@@ -1,6 +1,6 @@
 # Students Performance Analysis using Desision Tree and Random Forest Classifier
 
-__Goal__ is to classify student's performance on the basis of completion of preparation course.
+__Goal:__ To classify student's performance on the basis of completion of preparation course.
 
 __Introduction:__
 
@@ -29,6 +29,7 @@ __Result of Desicion Tree classifier:__
 ![image.jpg](images/Capture1.PNG)<br><br>
 
 ![image.jpg](images/Capture2.PNG)<br><br>
+Accuracy of prediction using Decicion Tree: 54.3%
 
 ___
 
@@ -48,7 +49,10 @@ __Confusion Matrix__
 
 Accuracy of prediction using Random forest is __58.30%__.
 
+___
+
 __GridSearchCV Implementation:__
+
 GridSearchCV implements a “fit” method and a “predict” method like any classifier except that the parameters of the classifier used to predict is optimized by cross-validation.
 
 ![image.jpg](images/Capture5.PNG)<br><br>
