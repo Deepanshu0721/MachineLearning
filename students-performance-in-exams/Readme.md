@@ -60,6 +60,8 @@ ___
 
 __GridSearchCV Implementation:__
 
+![image.jpg](images/1_RZ1RKBwhLxZM6SRX5Nc4Rw.png)<br><br>
+
 GridSearchCV implements a “fit” method and a “predict” method like any classifier except that the parameters of the classifier used to predict is optimized by cross-validation.
 
 ![image.jpg](images/Capture5.PNG)<br><br>
