@@ -62,3 +62,5 @@ GridSearchCV implements a “fit” method and a “predict” method like any c
 ![image.jpg](images/Capture5.PNG)<br><br>
 
 __Accuracy of Random Forest Classifier after implimentation of Grid Search increased by 15.44%.__
+
+___
