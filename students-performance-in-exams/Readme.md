@@ -15,10 +15,15 @@ __“The possible solutions to a given problem emerge as the leaves of a tree, e
 Common terms used with Decision trees:
 
 __Root Node__: It represents entire population or sample and this further gets divided into two or more homogeneous sets.
+
 __Splitting__: It is a process of dividing a node into two or more sub-nodes.
+
 __Decision Node__: When a sub-node splits into further sub-nodes, then it is called decision node.
+
 __Leaf/ Terminal Node__: Nodes do not split is called Leaf or Terminal node.
+
 __Pruning__: When we remove sub-nodes of a decision node, this process is called pruning. You can say opposite process of splitting.
+
 __Branch / Sub-Tree__: A sub section of entire tree is called branch or sub-tree.
 
 ![image.jpg](images/Capture.PNG)<br><br>
