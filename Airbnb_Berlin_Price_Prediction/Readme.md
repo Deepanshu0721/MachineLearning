@@ -49,7 +49,7 @@ __Correlation Matrix__
 ![image.jpg](image/8.png)<br><br>
 
 
-__General Trned__
+__General Trend:__
 
 ![image.jpg](image/9.PNG)<br><br>
 
