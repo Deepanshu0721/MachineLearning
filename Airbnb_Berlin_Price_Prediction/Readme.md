@@ -45,18 +45,17 @@ __Exploratory Data Analysis__
 
 ___
 
-__Correlation Matrix__
-
-![image.jpg](image/8.png)<br><br>
-
-___
-
 __General Trend:__
 
 ![image.jpg](image/9.PNG)<br><br>
 
 ___
 
+__Correlation Matrix:__
+
+![image.jpg](image/8.png)<br><br>
+
+___
 
 __Model Implementaion:__ 
 
