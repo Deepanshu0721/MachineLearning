@@ -45,9 +45,10 @@ __Exploratory Data Analysis__
 
 ___
 
-__General Trend:__
+__General Trend:__ From basic EDA of our data, we can say that general configuration of the property is  as follows:
 
-![image.jpg](image/9.PNG)<br><br>
+
+![image.jpg](image/19.PNG)<br><br>
 
 ___
 
