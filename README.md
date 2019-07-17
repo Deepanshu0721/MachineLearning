@@ -69,7 +69,7 @@ ___
 
 <a id=section6></a>
 ### [Airbnb Berlin Price Prediction](Airbnb_Berlin_Price_Prediction)
-![image.jpg](image/1_yvJxjj91bptjak3Xy3i1oQ.png)<br><br>
+![image.jpg](image/c3js.jpg)<br><br>
 Airbnb has successfully disrupted the traditional hospitality industry as more and more travelers decide to use Airbnb as their primary accommodation provider. Since its inception in 2008, Airbnb has seen an enormous growth, with the number of rentals listed on its website growing exponentially each year. As a data-analyst we will try to predict the price of the new accommodation based on several features such as type of property, number of bedrooms, etc.
  * [Link for the Jupyter notebook](./Airbnb_Berlin_Price_Prediction/Assessment1.ipynb) 
 
