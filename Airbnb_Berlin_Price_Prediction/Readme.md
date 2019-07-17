@@ -43,11 +43,13 @@ __Exploratory Data Analysis__
 
 ![image.jpg](image/7.PNG)<br><br>
 
+___
 
 __Correlation Matrix__
 
 ![image.jpg](image/8.png)<br><br>
 
+___
 
 __General Trend:__
 
