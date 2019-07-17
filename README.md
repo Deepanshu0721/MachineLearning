@@ -19,6 +19,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 - [Student's Marks Analysis](#section3)<br>
 - [Prediction of Lifetime Risk for Heart Disease and Cancer](#section4)<br>
 - [Wine Classification](#section5)<br>
+- [Airbnb Berlin Price Prediction](#section6)<br>
 
 
 ___
@@ -64,4 +65,12 @@ ___
 ![image.jpg](image/Vinesse-Wine-Club.jpg)<br><br>
 Wine classification on the basis of different factors like, Alcohol, Malic Acid, Ash, Ash Alcanity etc. Using Pricipal Component Analysis (PCA) for dimension reduction and then classifying wine into different classes using Nearest Neighbour (KNN) method.
  * [Link for the Jupyter notebook](./Wine-Classification/Wine-Classification.ipynb) 
+___
+
+<a id=section6></a>
+### [Airbnb Berlin Price Prediction](Airbnb_Berlin_Price_Prediction)
+![image.jpg](image/1_yvJxjj91bptjak3Xy3i1oQ.png)<br><br>
+Airbnb has successfully disrupted the traditional hospitality industry as more and more travelers decide to use Airbnb as their primary accommodation provider. Since its inception in 2008, Airbnb has seen an enormous growth, with the number of rentals listed on its website growing exponentially each year. As a data-analyst we will try to predict the price of the new accommodation based on several features such as type of property, number of bedrooms, etc.
+ * [Link for the Jupyter notebook](./Airbnb_Berlin_Price_Prediction/Assessment1.ipynb) 
+
 ___
