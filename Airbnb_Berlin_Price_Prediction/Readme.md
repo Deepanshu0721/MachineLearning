@@ -20,6 +20,8 @@ As a data-analyst we will try to predict the price for a new accommodation on th
 * Instant_bookable
 * Price
 
+___
+
 __Exploratory Data Analysis__
 
 ![image.jpg](image/1.PNG)<br><br>
@@ -51,6 +53,8 @@ __General Trned__
 
 ![image.jpg](image/9.PNG)<br><br>
 
+___
+
 
 __Model Implementaion:__ 
 
@@ -62,7 +66,7 @@ __Model Evaluation:__ Root Mean Square Error is quite low hence the model is wor
 * RMSE for training set is 17.75072739660046
 * RMSE for test set is 53.744425457842276
 
-
+___
 
 __Sentiment Analysis:__ By analysing the sentiments of 401963 people reviews, we can say that their majority of customers are satisfied with the service of Airbnb Host in Berlin.
 
@@ -74,4 +78,4 @@ Out of 401963 reviews:
 ![image.jpg](image/11.PNG)<br><br>
 
 
-
+___
